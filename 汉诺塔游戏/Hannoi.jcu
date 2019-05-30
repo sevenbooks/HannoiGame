@@ -1,0 +1,20 @@
+<?xml?>
+<workspace_user>
+	<active_project>
+		<label>Hannoi</label>
+	</active_project>
+	<project>
+		<project>
+			<label>Hannoi</label>
+			<showfiles>false</showfiles>
+		</project>
+	</project>
+	<open_files>
+		<docitem>
+			<path>HannoiWindow.java</path>
+			<source>true</source>
+			<index>0</index>
+			<active>true</active>
+		</docitem>
+	</open_files>
+</workspace_user>

@@ -1,0 +1,16 @@
+<?xml?>
+<workspace>
+	<settings>
+		<label>Hannoi</label>
+	</settings>
+	<users>
+		<user>
+			<path>Hannoi.jcu</path>
+		</user>
+	</users>
+	<project>
+		<project>
+			<path>Hannoi.jcp</path>
+		</project>
+	</project>
+</workspace>
